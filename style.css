@@ -1,0 +1,57 @@
+body
+{background-color: lightblue }
+h1 {
+    color: mediumblue;
+    text-align: center;
+    font-family: Verdana;
+}
+h3 {
+color: mediumblue;
+text-align: left;
+font-family: Verdana;
+}
+
+p
+{
+    font-family: Verdana;
+    font-size: 8;
+    line-height: 30px;
+    }
+img
+{
+    width: 200px;
+    height: 200px;
+}
+table, td
+{
+    border: 2px solid mediumblue;
+    border-collapse: collapse;
+    text-align: center;
+    padding: px;
+    padding-bottom: 25px; 
+    padding-top: 25px;
+    font-family: Verdana;
+}
+
+td
+{
+    width: 14.285%;
+}
+
+hr
+{
+    background-color: royalblue;
+    height: 3px;
+    border-bottom: royalblue;
+    border-top:  royalblue;
+}
+
+a
+{
+    color: cornflowerblue;    
+}
+
+#first
+{
+    padding-left: 35px;
+}
